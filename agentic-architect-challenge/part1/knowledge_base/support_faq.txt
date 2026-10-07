@@ -1,0 +1,31 @@
+CUSTOMER SUPPORT FAQ
+
+Billing
+
+Customers who believe they were charged incorrectly should contact the billing support team with their account details and transaction information.
+
+If a customer reports a duplicate charge, the billing team should review the transaction before any refund is approved.
+
+Refund Policy
+
+Refund eligibility depends on the specific transaction and account circumstances.
+
+The support system must not promise a refund unless the knowledge base confirms that the customer is eligible.
+
+If the available information is not sufficient to determine refund eligibility, the case should be escalated to a human support agent.
+
+Technical Support
+
+For login problems, customers should first verify that they are using the correct account credentials.
+
+If the problem continues, the issue should be reviewed by the technical support team.
+
+Critical Issues
+
+Possible data loss, service outages, and security breaches must be escalated to a human support agent.
+
+Customers who have contacted support more than three times within seven days should also be escalated for further review.
+
+Feedback
+
+Customers can submit feedback, suggestions, and recommendations about the service. Feedback should be recorded and forwarded to the appropriate team for review.

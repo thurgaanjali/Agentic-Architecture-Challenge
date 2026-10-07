@@ -1,0 +1,27 @@
+TECHNOVA IT SUPPORT GUIDE
+
+Password Reset
+
+Users who forget their password can reset it through the self-service password reset page.
+
+Account Lockout
+
+An account is locked after five unsuccessful login attempts. Users should wait 15 minutes before trying again or contact the IT support team.
+
+Support Hours
+
+The IT support team is available Monday to Friday from 9:00 AM to 6:00 PM.
+
+Critical Issues
+
+Security incidents, suspected data breaches, and major service outages should be reported to the IT support team immediately.
+
+Hardware Requests
+
+Employees who need a replacement laptop or other hardware should submit a hardware request to the IT support team.
+
+Response Time
+
+Normal support requests should receive an initial response within 24 hours.
+
+Escalated issues should receive an initial response within 4 hours.
